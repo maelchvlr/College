@@ -1,0 +1,3 @@
+This was a project, we had to imagine a database from scratch, find a reason to why this database is useful, and create everything once our subject was accepted.
+
+We coded everything in PL/SQL, there's database creation, deletion, triggers, etc...
