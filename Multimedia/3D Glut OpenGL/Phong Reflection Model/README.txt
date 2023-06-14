@@ -1,1 +1,1 @@
-Everything there is to see are mostly in the shaders files.
+Everything there is to see is mostly in the shaders files.
