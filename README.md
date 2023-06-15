@@ -3,6 +3,6 @@ This repository is a collection of everything I thought was important in what I 
 
 In the course of those three years, I also worked on theorical subjects, such as syntaxical analysis, algorithm complexity and calculability, models of computation, first order logic and process architecture, which are hard to present as code, but I'll leave some examples of more theorical productions in the "others" folder.
 
-I also took linear algebra a and arithmetic classes, I worked with vector and matrices and learned how to go back to the very first mathematical concepts and prove them to be able to understand higher level mathematics in a deeper way.
+I also took linear algebra and arithmetic classes, I worked with vector and matrices and learned how to go back to the very first mathematical concepts and prove them to be able to understand higher level mathematics in a deeper way.
 
 It cannot be found on this github, but I worked on software engineering, using external tools to improve our apps (dockers, snyk, sonarcloud...) and understanding the concept of software engineering. Everything can be found at this gitlab adress : https://gitlab.com/comptegithubfac/term1
